@@ -1,2 +1,2 @@
-# personal-website
-This is the repo for my personal website found at vedarsh.com.gg
+# Personal Website
+This is the repo for my personal website found at vedarsh.com.
